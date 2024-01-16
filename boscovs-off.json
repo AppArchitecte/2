@@ -1,6 +1,6 @@
 {
     "Ads": {
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "facebook",
         "InterAd": "facebook",
         "NativeAd": "facebook",
@@ -12,149 +12,91 @@
         "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "intersitial_click_activites": 5,
         "intersitial_click_list": 5
-	    
+
     },
 
     "Data": {
         "btn_more_title": "More",
-        "btn_more_url": "https://smrturl.co/63de242",
+        "btn_more_url": "https://www.google.com/",
         "items_data": [{
-                "title": "Introduction to Afterpay",
-                "image": "https://m-imag.web.app/afterpay/1.webp",
+                "title": "Introduction to Boscov's",
+                "image": "https://m-imag.web.app/boscovs/1.webp",
                 "title_size": "25",
 				"detail": [{
 					"image": "",
-					"text": "Afterpay is an innovative financial service that allows you to make purchases now and pay for them in four installments, made every two weeks, without any interest. It offers a convenient and flexible payment option compared to traditional payment methods.",
+					"text": "Founded by Solomon Boscov in 1918, Boscov's has evolved into one of the largest family-owned department store chains in the United States. With a commitment to customer satisfaction, the brand has stood the test of time, maintaining its charm and relevance over the decades. \n \n History and Legacy of Boscov's \n \n The rich history of Boscov's reflects a journey of resilience and adaptability. From its humble beginnings in Reading, Pennsylvania, the company has expanded its footprint, creating a legacy that goes beyond retail.",
 					"native": true,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": false,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-					{
-					"image": "",
-					"text": "",
-					"native": false,
 					"cpa_title": "",
 					"cpa_url": "000000"
 				}
 				]
             }, {
-                "title": "How to Use Afterpay",
-                "image": "https://m-imag.web.app/afterpay/2.webp",
+                "title": "Boscov's Product Range",
+                "image": "https://m-imag.web.app/boscovs/2.webp",
                 "title_size": "25",
  				"detail": [{
 					"image": "",
-					"text": "To start using Afterpay, first, you need to create an account on their website or app. Once your account is set up, you can shop at your favorite stores as usual. At checkout, choose Afterpay as your payment method. Your purchase price will then be split into four equal installments, payable every two weeks.",
+					"text": "Clothing and Fashion Accessories \n \n Boscov's caters to fashion enthusiasts with a diverse array of clothing and accessories. From trendy apparel to classic styles, the store offers something for everyone. \n \n Home Goods and Furnishings \n \n Create a home sanctuary with Boscov's extensive collection of home goods. From kitchen essentials to stylish furnishings, Boscov's ensures your living space reflects your personality. \n \n Electronics and Appliances \n \n Tech-savvy shoppers can explore the latest gadgets and appliances at Boscov's. The store prides itself on offering cutting-edge technology to enhance everyday life. \n \n Shopping Experience at Boscov's \n \n In-Store Experience \n \n Step into a world of curated displays and attentive service. Boscov's physical stores provide a sensory shopping experience, allowing customers to engage with products before making a purchase. \n \n Online Shopping Platform \n \n For the digital-savvy, Boscov's online platform offers the same level of convenience and variety. Navigate seamlessly through categories, enjoy exclusive online deals, and have your purchases delivered to your doorstep.",
 					"native": true,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": false,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-					{
-					"image": "",
-					"text": "",
-					"native": false,
 					"cpa_title": "",
 					"cpa_url": "000000"
 				}
 				]
             }, {
-                "title": "Benefits of Using Afterpay",
-                "image": "https://m-imag.web.app/afterpay/3.webp",
+                "title": "titile",
+                "image": "https://m-imag.web.app/boscovs/3.webp",
                 "title_size": "25",
       			"detail": [{
 					"image": "",
-					"text": "",
+					"text": "text text text text",
 					"native": true,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "Using Afterpay provides several benefits. It allows you to manage your expenses better by spreading out the cost of your purchases over time, rather than paying the full amount upfront. There are no interest charges or additional fees when you pay on time. Also, Afterpay is accepted at a wide range of stores, offering you plenty of shopping options.",
-					"native": false,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-					{
-					"image": "",
-					"text": "",
-					"native": false,
 					"cpa_title": "",
 					"cpa_url": "000000"
 				}
 				]
             }, {
-                "title": "The Afterpay Mobile App",
-                "image": "https://m-imag.web.app/afterpay/4.webp",
+                "title": "Boscov's Exclusive Brands",
+                "image": "https://m-imag.web.app/boscovs/4.webp",
                 "title_size": "25",
           		"detail": [{
 					"image": "",
-					"text": "",
-					"native": false,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "The Afterpay mobile app makes the service even more convenient to use. With the app, you can manage your payments, keep track of your spending, and discover new brands and stores offering Afterpay. The app is free to download and available on both iOS and Android platforms.",
+					"text": "Discover unique and quality products through Boscov's exclusive brands. These lines reflect the brand's commitment to offering distinctive items that stand out in the market. \n \n Seasonal Sales and Promotions \n \n Boscov's keeps the excitement alive with its seasonal sales and promotions. From holiday discounts to back-to-school deals, savvy shoppers can make the most of these opportunities.",
 					"native": true,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": false,
 					"cpa_title": "",
 					"cpa_url": "000000"
 				}
 				]
             }, {
-                "title": "Stores and Brands Offering Afterpay",
-                "image": "https://m-imag.web.app/afterpay/5.webp",
+                "title": "Boscov's Loyalty Program",
+                "image": "https://m-imag.web.app/boscovs/5.webp",
                 "title_size": "25",
              	"detail": [{
 					"image": "",
-					"text": "",
-					"native": false,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "Afterpay is integrated with numerous popular brands and stores. This includes a wide range of industries from fashion to home goods, electronics, sports, and more. Visit Afterpay's shop directory on their website to explore the full list of stores.",
+					"text": "Engage with Boscov's Loyalty Program to unlock additional perks. Earn points with each purchase, enjoy exclusive discounts, and be the first to access special promotions. \n \n Community Engagement and Philanthropy \n \n Boscov's believes in giving back to the communities it serves. Learn about the brand's philanthropic initiatives and how it actively contributes to societal well-being. \n \n Customer Reviews and Testimonials \n \n Discover what customers have to say about their Boscov's experience. Real-life testimonials provide insights into the satisfaction and trust that Boscov's builds with its clientele. \n \n Boscov's in the Modern Retail Landscape \n \n Amidst the dynamic retail environment, Boscov's remains a beacon of stability and authenticity. Explore how the brand adapts to modern consumer needs without compromising its core values.",
 					"native": true,
-					"cpa_title": "",
-					"cpa_url": "000000"
-				},
-				{
-					"image": "",
-					"text": "",
-					"native": false,
 					"cpa_title": "",
 					"cpa_url": "000000"
 				}
 				]
             }, {
-                "title": "Conclusion.",
-                "image": "https://m-imag.web.app/afterpay/6.webp",
+                "title": "Competitive Edge of Boscov's",
+                "image": "https://m-imag.web.app/boscovs/6.webp",
                 "title_size": "25",
                 "detail": [{
 					"image": "000000",
-					"text": "In conclusion, Afterpay offers a convenient and interest-free way to shop now and pay later. With a simple setup process, user-friendly app, and extensive store availability, it's an attractive option for anyone seeking a flexible and manageable payment method. Remember, as with any financial service, it's essential to use Afterpay responsibly, ensuring you can comfortably afford the installments before making a purchase. Enjoy shopping with Afterpay!",
+					"text": "What sets Boscov's apart in a crowded market? Uncover the factors that contribute to its competitive edge and sustained success. \n \n Future Innovations and Expansion Plans \n \n As retail evolves, so does Boscov's. Delve into the brand's future innovations and expansion strategies, ensuring it stays ahead in the ever-changing landscape. \n \n Navigating Boscov's Website - A User Guide \n \n Get the most out of your online shopping experience with Boscov's. This user guide provides handy tips and tricks to navigate the website effectively. \n \n Tips for Smart Shopping at Boscov's \n \n Make your shopping experience at Boscov's even more rewarding with these practical tips. From utilizing promotions to exploring exclusive brands, become a savvy Boscov's shopper.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Conclusion",
+                "image": "https://m-imag.web.app/boscovs/1.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "In conclusion, Boscov's stands as a testament to the enduring spirit of family-owned businesses in the retail sector. With a blend of tradition and innovation, Boscov's continues to captivate shoppers, offering a unique and satisfying shopping experience.",
 					"native": true,
 					"cpa_title": "",
 					"cpa_url": "000000"
